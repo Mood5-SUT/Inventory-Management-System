@@ -1,0 +1,67 @@
+{
+  "apple": {
+    "price": 46.35,
+    "quantity": 10,
+    "company": "fresh farms"
+  },
+  "orange": {
+    "price": 30.9,
+    "quantity": 8,
+    "company": "citrus.co"
+  },
+  "banana": {
+    "price": 7.73,
+    "quantity": 12,
+    "company": "tropical delight"
+  },
+  "strawberry": {
+    "price": 108.15,
+    "quantity": 5,
+    "company": "berry best"
+  },
+  "grapes": {
+    "price": 61.8,
+    "quantity": 6,
+    "company": "vine valley"
+  },
+  "potato chips": {
+    "price": 54.08,
+    "quantity": 15,
+    "company": "snackmaster"
+  },
+  "cheese": {
+    "price": 61.8,
+    "quantity": 10,
+    "company": "cheese co."
+  },
+  "popcorn": {
+    "price": 38.63,
+    "quantity": 12,
+    "company": "poppy snacks"
+  },
+  "coca-cola": {
+    "price": 30.61,
+    "quantity": 15,
+    "company": "coca=cola"
+  },
+  "lemonade": {
+    "price": 72.25,
+    "quantity": 6,
+    "company": "sunny drinks"
+  },
+  "iced tea": {
+    "price": 54.08,
+    "quantity": 8,
+    "company": "teaco"
+  },
+  "redbull": {
+    "price": 50,
+    "quantity": 4,
+    "company": "redbull"
+  },
+  "redball": {
+    "price": 25.5,
+    "quantity": 49,
+    "company": "red"
+  }
+}

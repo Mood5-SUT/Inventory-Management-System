@@ -1,0 +1,10 @@
+{
+  "admin": {
+    "pass": "5050",
+    "name": "Doctor"
+  },
+  "IT@50": {
+    "pass": "321",
+    "name": "Eng.Ahmed"
+  }
+}
